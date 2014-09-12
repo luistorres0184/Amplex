@@ -1,0 +1,106 @@
+/* Add here all your CSS customizations */
+
+#ribbon {
+	position: absolute;
+	z-index: 9999;
+	right: 20px;
+	top: 20px;
+}
+
+section.page-top {
+	background-size: cover;
+	background-image: url('../img/paralax/amplex_parallax.jpg');
+	background-position-x: 0px;
+	background-position-y: -40px;
+}
+
+i.icon-featured img {
+	width: 90px;
+	position: absolute;
+	display: block;
+	bottom: 0;
+	right: 0;
+}
+
+section.highlight {
+background-color: #0088cc;
+border-color: #bbb !important;
+}
+
+section.highlight h1 {
+color: #0077b3;
+}
+
+.inverted {
+background-color: transparent;
+color: #0077b3;
+}
+
+.placement{
+	margin-top: -91px;
+}
+
+a.thumb-info span.thumb-info-title {
+-moz-transition: all 0.3s;
+-o-transition: all 0.3s;
+-webkit-transition: all 0.3s;
+background: rgba(36,27,28, .9);
+bottom: 70%;
+color: #FFF;
+font-size: 18px;
+font-weight: 700;
+left: 0;
+letter-spacing: -1px;
+padding: 9px 11px 9px;
+position: absolute;
+text-shadow: 1px 1px 1px rgba(0,0,0,.2);
+text-transform: uppercase;
+transition: all 0.3s;
+z-index: 1;
+}
+
+h2 span.word-rotate {
+margin-bottom: -12px;
+color: #0077b3;
+}
+
+div.google-map {
+background: #E5E3DF;
+height: 400px;
+margin: -35px 0 30px 0;
+width: 100%;
+margin-top: 31px;
+}
+
+.width_btn {
+	width: 90px;
+	padding: 9px 11px 9px;
+}
+
+/*a {
+color: #fff;
+}*/
+
+
+
+input.btn.btn-primary.btn-lg {
+float: left;
+margin-right: 10px;
+}
+
+li#video-link{
+	list-style: none;
+	float: left;
+}
+
+li#video-link-corporativo {
+list-style: none;
+float: left;
+margin-left: -42px;
+}
+
+.owl-carousel-spaced1 {
+margin: 2px;
+margin-bottom: 10px;
+width: 277px;
+}
